@@ -1,15 +1,11 @@
 <div align="center">
 
-```
-███████╗ ██████╗ ██╗  ██╗ █████╗ ██╗██╗      ███████╗ █████╗      ██╗██╗██████╗
-██╔════╝██╔═══██╗██║  ██║██╔══██╗██║██║      ██╔════╝██╔══██╗     ██║██║██╔══██╗
-███████╗██║   ██║███████║███████║██║██║      ███████╗███████║     ██║██║██║  ██║
-╚════██║██║   ██║██╔══██║██╔══██║██║██║      ╚════██║██╔══██║██   ██║██║██║  ██║
-███████║╚██████╔╝██║  ██║██║  ██║██║███████╗ ███████║██║  ██║╚█████╔╝██║██████╔╝
-╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝ ╚══════╝╚═╝  ╚═╝ ╚════╝ ╚═╝╚═════╝
-```
+<a href="https://github.com/devsohail">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Sohail+Sajid+👋;Senior+Software+Engineer;AI+%26+Cloud+Architect;LLM+Agents+%7C+RAG+%7C+Agentic+AI;14%2B+Years+Building+at+Scale&font=Fira+Code&center=true&width=800&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" alt="Typing SVG" />
+</a>
+<br/>
 
-### **Software Engineering Manager · AI & Cloud**
+### **Senior Software Engineer · AI & Cloud**
 #### *Building production-grade AI systems that actually ship*
 
 <a href="https://linkedin.com/in/sohail-sajid-ss"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -24,7 +20,7 @@
 
 ```python
 class SohailSajid:
-    role        = "Software Engineering Manager | AI & Cloud"
+    role        = "Senior Software Engineer | AI & Cloud"
     location    = "Islamabad, Pakistan 🇵🇰"
     experience  = "14+ years across fintech, healthcare & government"
     focus       = ["LLM Agents", "Agentic AI", "Cloud-Native Architecture", "RAG"]
