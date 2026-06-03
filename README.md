@@ -26,7 +26,7 @@
 class SohailSajid:
     role        = "Software Engineering Manager | AI & Cloud"
     location    = "Islamabad, Pakistan 🇵🇰"
-    experience  = "12+ years across fintech, healthcare & government"
+    experience  = "14+ years across fintech, healthcare & government"
     focus       = ["LLM Agents", "Agentic AI", "Cloud-Native Architecture", "RAG"]
     currently   = "Building production-grade AI systems that reduce operational overhead"
     philosophy  = "Clean systems. Measurable impact. Ship with confidence."
